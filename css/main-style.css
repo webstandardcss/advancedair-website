@@ -78,7 +78,7 @@ nav ul {
 	list-style: none;
 }
 
-nav a {
+.navbar-nav a {
 	font-size:  18px;
 	color: #fff;
 	padding: 0 12px;
@@ -87,7 +87,7 @@ nav a {
 	font-weight: bold;
 }
 
-nav a:hover {
+.navbar-nav a:hover {
 	color: #fafafa;
 	text-decoration: none;
 }
@@ -219,6 +219,7 @@ footer p {
 
 .nav-pills > li.active > a, 
 .nav-pills > li.active > a:hover, 
+.nav-pills > li.active > a:focus {
 .nav-pills > li.active > a:focus {
     color: #fff;
     background-color: #ed1c24;
