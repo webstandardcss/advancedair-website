@@ -5,7 +5,10 @@
 <!-- Main Contents Starts -->
 
 	<h1>Staff Information</h1>
-
+	
+	<section class="col-sm-6">
+	<div class="row">
+	
     <strong>Accounts Receivable / Accounts Payable (ARAP)</strong>
     <ul class="stafflist">
         <li><a href="mailto:padams@advancedairnow.com">Trish Adams</a></li>
@@ -30,7 +33,13 @@
     <ul class="stafflist">
         <li><a href="mailto:tbarton@advancedairnow.com">Terry Barton</a></li>
     </ul>
+	
+	</div>
+	</section>
 
+	<section class="col-sm-6">
+	<div class="row">
+	
     <strong>Sales</strong>
     <ul class="stafflist">
         <li><a href="mailto:RickLee@advancedairnow.com?cc=tbarton@advancedairnow.com">Rick Lee</a></li>
@@ -65,6 +74,8 @@
         <li><a href="mailto:DEhl@advancedairnow.com">Don L. Ehl </a></li>
     </ul>
 
+	</div>
+	</section>
     
     <br /><br /><br />
     
