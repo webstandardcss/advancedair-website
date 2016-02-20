@@ -1,0 +1,63 @@
+@media only screen and (max-width: 991px) {
+	.hide-responsive {
+		display: none;
+	}
+	
+	.oem a {
+		display: block;
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.hide-responsive2 {
+		display: none;
+	}
+	
+	.logo,
+	.call {
+		float: none;
+		clear: both;
+		margin: auto;
+	}
+	
+	.logo {
+		width: 100%;
+		max-width: 395px;
+		margin: auto;
+	}
+	
+	.navbar-toggle {
+		background: #000;
+	}
+	
+	.navbar-toggle .icon-bar {
+		background: #fff;
+	}
+	
+	nav {
+		height: auto;
+	}
+	
+	nav .navbar-collapse {
+		position: absolute;
+		background: #000;
+		width: 100%;
+		z-index: 444;
+	}
+
+	.black-bar {
+		height: auto;
+		text-align: center;
+	}
+	
+	.black-bar span,
+	.black-bar span a {
+		float: none;
+	}
+	
+	.black-bar span {
+		display: block;
+		text-align: center !important;
+	}
+}
