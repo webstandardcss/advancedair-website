@@ -12,7 +12,7 @@
 <p>Advanced Air has thousands of man hours in the field, and we are experts in <strong>planning</strong>, <strong>maintenance</strong>, <strong>repairing</strong>, and <strong>rebuilding</strong> all types of air equipment control systems - each with warranties that meet or exceed factory warranties. Our replacement parts list include all OEMs from small reciprocating pumps and portable compressors to industrial units.</p>
 
 <h3>Authorized OEM service</h3>
-<p>
+<p class="oem">
     <a href="services.php" target="_self">
         <img src="images/manufacturers/becker.gif" alt="Authorized Becker Service Center" />
     </a>
