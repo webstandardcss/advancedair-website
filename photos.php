@@ -1,25 +1,102 @@
 <?php include_once('header.php'); ?>
-
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox({
+			openEffect	: 'none',
+			closeEffect	: 'none'
+		});
+	});
+</script>
 <section class="main-content container">
 <div class="col-sm-12">
 <!-- Main Contents Starts -->
 
-	<h1>Page Title</h1>
-    <h2>Content</h2>
+	<h1>Photo Gallery</h1>
     
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id imperdiet nibh. Curabitur scelerisque ut tortor quis laoreet. Etiam ac urna egestas, auctor nibh vitae, scelerisque ligula. Etiam id rhoncus odio, at semper orci. In eleifend augue ante, vitae lacinia nunc convallis in. Sed neque ante, consectetur quis dui eget, feugiat aliquam lectus. Maecenas in nibh mi. Nam fringilla arcu nec nisi placerat maximus. Donec a blandit mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-    <p>Nunc orci ante, dignissim quis tellus imperdiet, tincidunt faucibus lorem. Aliquam fermentum tincidunt sapien ut rhoncus. Vestibulum sed lacinia erat. Aliquam malesuada leo ac est consequat, non iaculis dolor dictum. Ut eget interdum diam. Morbi dui turpis, interdum sit amet enim eu, consequat elementum urna. Quisque sapien lorem, tempor eu massa non, faucibus iaculis lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla eu arcu massa. Aliquam sed tortor a nulla aliquam interdum. Aenean auctor gravida quam, at ultrices quam scelerisque in.</p>
-    <p>Fusce accumsan est id ultrices rhoncus. Duis fringilla gravida rutrum. Fusce mauris nisl, volutpat in libero ut, interdum varius tortor. Nam consequat dui et arcu condimentum, consequat varius libero facilisis. Nam sit amet augue ut nisl gravida facilisis. Integer ultrices est vel varius ultricies. Donec congue, orci id aliquet iaculis, massa lectus vulputate dolor, eget auctor metus est ac eros. Fusce nec mollis enim. Suspendisse placerat tempus odio vitae gravida. Aenean mattis felis turpis. Phasellus facilisis condimentum leo ultrices lacinia. Nullam augue nulla, vestibulum eu facilisis ut, tempus a nulla. Curabitur finibus commodo mattis. Donec iaculis neque a enim imperdiet, ut convallis lacus rutrum.</p>
-    
-    <br /><br /><br />
-    
-    <article class="col-sm-5 video text-center">
-        <iframe width="420" height="315" src="https://www.youtube.com/embed/XQu8TTBmGhA" frameborder="0" allowfullscreen></iframe>
-    </article>
-    
-    <article class="col-sm-5 image col-sm-offset-2 text-center">
-    	<img src="images/img.png" alt="" class="img-responsive" />
-    </article>
+	<section class="col-sm-3">
+	<div class="row">
+	<!-- Menu Starts -->
+		<br />
+		<ul class="nav nav-pills nav-stacked" style="margin-left: 0;">
+			<li class="active"><a data-toggle="tab" href="#one" href="#">Air System Installations</a></li>
+			<li><a data-toggle="tab" href="#two" href="#">Airend Overhauls</a></li>
+			<li><a data-toggle="tab" href="#three" href="#">Condensate Management</a></li>
+			<li><a data-toggle="tab" href="#four" href="#">Electrical</a></li>
+			<li><a data-toggle="tab" href="#five" href="#">Energy And Air System Surveys</a></li>
+			<li><a data-toggle="tab" href="#six" href="#">Equipment</a></li>
+			<li><a data-toggle="tab" href="#seven" href="#">Images</a></li>
+			<li><a data-toggle="tab" href="#eight" href="#">Machining Work</a></li>
+			<li><a data-toggle="tab" href="#nine" href="#">Specialization Projects</a></li>
+			<li><a data-toggle="tab" href="#ten" href="#">Turnkey Overhauls</a></li>
+		</ul>
+	
+	<!-- Menu Ends -->
+	</div>
+	</section>
+		
+	<div class="tab-content col-sm-9">
+	<!-- Tab Contents Starts -->
+		
+		<div id="one" class="tab-pane fade in active">
+		<!-- Each Tab Starts -->
+		
+			<h3>Air System Installations</h3>
+			
+			<a class="fancybox col-sm-3" rel="gallery1" href="http://farm2.staticflickr.com/1617/24108587812_6c9825d0da_b.jpg" title="Morning Godafoss (Brads5)">
+				<img src="http://farm2.staticflickr.com/1617/24108587812_6c9825d0da_m.jpg" alt="" />
+			</a>
+			<a class="fancybox col-sm-3" rel="gallery1" href="http://farm4.staticflickr.com/3691/10185053775_701272da37_b.jpg" title="Vertical - Special Edition! (cedarsphoto)">
+				<img src="http://farm4.staticflickr.com/3691/10185053775_701272da37_m.jpg" alt="" />
+			</a>
+			<a class="fancybox col-sm-3" rel="gallery1" href="http://farm1.staticflickr.com/574/22407305427_69cc6e845f_b.jpg" title="Racing against the Protons (tom.leuzi)">
+				<img src="http://farm1.staticflickr.com/574/22407305427_69cc6e845f_m.jpg" alt="" />
+			</a>
+			<a class="fancybox col-sm-3" rel="gallery1" href="http://farm1.staticflickr.com/291/18653638823_a86b58523c_b.jpg" title="Lupines (Kiddi Einars)">
+				<img src="http://farm1.staticflickr.com/291/18653638823_a86b58523c_m.jpg" alt="" />
+			</a>
+			
+		<!-- Each Tab Ends -->
+		</div>
+		
+		<div id="two" class="tab-pane fade">
+			<h3>Menu 1</h3>
+			<p>Some content in menu 1.</p>
+		</div>
+		<div id="three" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Some content in menu 2.</p>
+		</div>
+		<div id="four" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Some content in menu 2.</p>
+		</div>
+		<div id="five" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Some content in menu 2.</p>
+		</div>
+		<div id="six" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Some content in menu 2.</p>
+		</div>
+		<div id="seven" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Some content in menu 2.</p>
+		</div>
+		<div id="eight" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Some content in menu 2.</p>
+		</div>
+		<div id="nine" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Some content in menu 2.</p>
+		</div>
+		<div id="ten" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Some content in menu 2.</p>
+		</div>
+		
+	<!-- Tab Contents Ends -->
+	</div>
 
 <!-- Main Contents Ends -->
 </div>

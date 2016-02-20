@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
 	<link rel="stylesheet" href="css/main-style.css" type="text/css" />
 	<link rel="stylesheet" href="css/media.css" type="text/css" />
+	<link rel="stylesheet" href="css/jquery.fancybox.css" type="text/css" />
     <!--[if lte IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -16,6 +17,8 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/npm.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
     
 </head>
 
