@@ -48,7 +48,7 @@
     <br /><br /><br />
     
     <article class="col-sm-5 video text-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/qIfn1R2ZMtU" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" style="height: 338px;" height="338" src="https://www.youtube.com/embed/qIfn1R2ZMtU" frameborder="0" allowfullscreen></iframe>
     </article>
     
     <article class="col-sm-5 image col-sm-offset-2 text-center">
