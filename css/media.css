@@ -60,4 +60,13 @@
 		display: block;
 		text-align: center !important;
 	}
+	
+	.video {
+		float: none !important;
+	}
+	
+	.video iframe {
+		margin-bottom: 20px;
+		height: 338px !important;
+	}
 }
