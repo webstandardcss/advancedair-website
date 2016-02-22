@@ -18,6 +18,7 @@
         <img src="images/manufacturers/almig.jpg" alt="Authorized Almig Service Center" />
     </a>
 </p>
+<section class="col-sm-6">
 <div>
     <h4>AIR KNIVES AND BLOWERS</h4>
     <ul>
@@ -139,6 +140,8 @@
         <li>WORTHINGTON</li>
     </ul>
 </div>
+</section>
+<section class="col-sm-6">
 <div>
     <h4>INSTRUMENT & PLANT AIR COMPRESSORS</h4>
     <ul>
@@ -243,6 +246,8 @@
     <li>TRAVAINI</li>
     <li>VACOON</li>
 </ul>
+</section>
+<div class="clearfix"></div>
     
     <br /><br /><br />
     
