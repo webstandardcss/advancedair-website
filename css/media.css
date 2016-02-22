@@ -7,6 +7,14 @@
 		display: block;
 		text-align: center;
 	}
+	
+	.video iframe {
+		height: 150px !important;
+	}
+	
+	.video2 iframe {
+		height: 200px !important;
+	}
 }
 
 @media only screen and (max-width: 768px) {
