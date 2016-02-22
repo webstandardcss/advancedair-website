@@ -22,10 +22,10 @@
 			<li><a data-toggle="tab" href="#two" href="#">Airend Overhauls</a></li>
 			<li><a data-toggle="tab" href="#three" href="#">Condensate Management</a></li>
 			<li><a data-toggle="tab" href="#four" href="#">Electrical</a></li>
-			<li><a data-toggle="tab" href="#five" href="#">Energy And Air System Surveys</a></li>
+			<!--<li><a data-toggle="tab" href="#five" href="#">Energy And Air System Surveys</a></li>-->
 			<li><a data-toggle="tab" href="#six" href="#">Equipment</a></li>
-			<li><a data-toggle="tab" href="#seven" href="#">Images</a></li>
-			<li><a data-toggle="tab" href="#eight" href="#">Machining Work</a></li>
+			<!--<li><a data-toggle="tab" href="#seven" href="#">Images</a></li>
+			<li><a data-toggle="tab" href="#eight" href="#">Machining Work</a></li>-->
 			<li><a data-toggle="tab" href="#nine" href="#">Specialization Projects</a></li>
 			<li><a data-toggle="tab" href="#ten" href="#">Turnkey Overhauls</a></li>
 		</ul>
@@ -100,6 +100,8 @@
 		<div id="six" class="tab-pane fade">
 			<h3>Equipment</h3>
 			
+			<h4>Rebuilt</h4>
+			<div class="clearfix"></div>
 			<a class="fancybox col-sm-3" rel="gallery1" href="photos/Equipment/Rebuilt/100_0369.JPG" title="Rebuilt">
 				<img src="photos/Equipment/Rebuilt/100_0369.JPG" class="img-responsvie" alt="" />
 			</a>
@@ -115,7 +117,10 @@
 			<a class="fancybox col-sm-3" rel="gallery1" href="photos/Equipment/Rebuilt/LeRoiRebuilt30HPPic1.JPG" title="Rebuilt">
 				<img src="photos/Equipment/Rebuilt/LeRoiRebuilt30HPPic1.JPG" class="img-responsvie" alt="" />
 			</a>
+			<div class="clearfix"></div>
 			
+			<h4>Vacuum And Blowers</h4>
+			<div class="clearfix"></div>
 			<a class="fancybox col-sm-3" rel="gallery1" href="photos/Equipment/VacuumAndBlowers/100_0100.JPG" title="Vacuum And Blowers">
 				<img src="photos/Equipment/VacuumAndBlowers/100_0100.JPG" class="img-responsvie" alt="" />
 			</a>
