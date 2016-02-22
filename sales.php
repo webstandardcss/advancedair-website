@@ -21,11 +21,11 @@
         <br /><br /><br />
         
         <article class="col-sm-6 image text-center">
-            <img src="images/img.png" alt="" class="img-responsive" />
+            <img src="images/photo.jpg" alt="" class="img-responsive" />
         </article>
         
         <article class="col-sm-6 video text-center">
-            <iframe width="420" height="315" src="https://www.youtube.com/embed/XQu8TTBmGhA" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/qIfn1R2ZMtU" frameborder="0" allowfullscreen></iframe>
         </article>
         
     <!-- Contents Ends -->
