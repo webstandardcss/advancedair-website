@@ -22,7 +22,7 @@ from the ground up.</p>
         </article>
         
         <article class="col-sm-6 video text-center">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/qIfn1R2ZMtU" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="250" src="https://www.youtube.com/embed/qIfn1R2ZMtU" frameborder="0" allowfullscreen></iframe>
         </article>
         
     <!-- Contents Ends -->
