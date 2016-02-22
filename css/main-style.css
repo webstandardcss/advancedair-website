@@ -220,7 +220,6 @@ footer p {
 .nav-pills > li.active > a, 
 .nav-pills > li.active > a:hover, 
 .nav-pills > li.active > a:focus {
-.nav-pills > li.active > a:focus {
     color: #fff;
-    background-color: #ed1c24;
+    background-color: #ed1c24 !important;
 }
