@@ -18,6 +18,7 @@
         <img src="images/manufacturers/almig.jpg" alt="Authorized Almig Service Center" />
     </a>
 </p>
+<br />
 <section class="col-sm-6">
 <div>
     <h4>AIR KNIVES AND BLOWERS</h4>
@@ -249,7 +250,7 @@
 </section>
 <div class="clearfix"></div>
     
-    <br /><br /><br />
+    <br /><br />
     
     <article class="col-sm-5 video video2 text-center">
         <iframe width="560" style="height: 338px;" src="https://www.youtube.com/embed/qIfn1R2ZMtU" frameborder="0" allowfullscreen></iframe>
