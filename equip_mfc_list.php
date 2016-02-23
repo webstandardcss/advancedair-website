@@ -251,7 +251,7 @@
     
     <br /><br /><br />
     
-    <article class="col-sm-5 video text-center">
+    <article class="col-sm-5 video video2 text-center">
         <iframe width="560" style="height: 338px;" src="https://www.youtube.com/embed/qIfn1R2ZMtU" frameborder="0" allowfullscreen></iframe>
     </article>
     
