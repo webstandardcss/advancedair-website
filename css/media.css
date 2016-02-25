@@ -1,4 +1,8 @@
 @media only screen and (max-width: 1199px) {
+	.video iframe {
+		height: 203px !important;
+	}
+	
 	.video2 iframe {
 		height: 276px !important;
 	}

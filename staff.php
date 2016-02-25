@@ -76,8 +76,8 @@
 
 	</div>
 	</section>
-    
-    <br /><br /><br />
+	<div class="clearfix"></div>
+    <br /><br />
     
     <article class="col-sm-5 video video2 text-center">
         <iframe width="560" style="height: 338px;" height="338" src="https://www.youtube.com/embed/qIfn1R2ZMtU" frameborder="0" allowfullscreen></iframe>
