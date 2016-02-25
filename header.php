@@ -34,7 +34,7 @@
     	<article class="logo float-left">
         <!-- Logo Starts -->
         	<img src="images/tornado5.gif" alt="Advanced Air Now" title="Advanced Air Now" />
-            <img src="images/logo2.png" alt="Advanced Air Now" title="Advanced Air Now" />
+            <img src="images/logo3.png" alt="Advanced Air Now" title="Advanced Air Now" />
         <!-- Logo Ends -->
         </article>
         
